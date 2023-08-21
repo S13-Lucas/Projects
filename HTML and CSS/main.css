@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #060047;
+}
+
+.main-text{
+    font-family: Arial;
+    color: #E90064;
+}
+
+.show-border {
+    border: solid;
+}
+
+

@@ -1,0 +1,61 @@
+#header {
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: end;
+    padding-right: 20px;
+    margin: 0px;
+}
+
+
+.header-wrapper {
+    align-items: center;
+    display: flex;
+    
+   
+}
+
+.btn {
+    font-weight: bold;
+    display: inline-block;
+    height: 30px;
+    gap: 100px;
+    border: solid #060047;
+    letter-spacing: .5px;
+    cursor: pointer;
+    position: relative;
+    
+
+}
+
+.home-icon{
+    width: 20px;
+}
+
+.btn:hover {
+    display: inline-block;
+    border-bottom: solid;
+   
+    
+}
+
+.btn--home {
+    background-color: #060047;
+    color: #E90064;
+}
+
+.btn--about {
+    background-color: #060047;
+    color: #E90064;
+}
+
+.btn--projects {
+    background-color: #060047;
+    color: #E90064;
+}
+
+.btn--contact {
+    background-color: #060047;
+    color: #E90064;
+}
